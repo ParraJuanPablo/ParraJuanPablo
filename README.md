@@ -4,8 +4,8 @@
 <br>
 
 - :school: I´m currently `Studying` [Systems Engineer](https://www.unimet.edu.ve/facultad_ingenieria/ingenieria-de-sistemas/) at [Universidad Metropolitana](https://www.unimet.edu.ve).
-- :thinking: I’m open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :thinking: I’m open for a new `job opportunity`, this is [MY RESUME]().
+- :boom: You can visit [MY WEBSITE]().
   
 <br>
 <br>
