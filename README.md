@@ -3,6 +3,10 @@
 <h2><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About Me.</h2>
 <br>
 
+- :school: I´m currently `Studying` [Systems Engineer](https://www.unimet.edu.ve/facultad_ingenieria/ingenieria-de-sistemas/) at [Universidad Metropolitana](https://www.unimet.edu.ve).
+- :thinking: I’m open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+  
 <br>
 <br>
 
@@ -12,6 +16,11 @@
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills.</h2>
 <br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,dart,firebase,flask,flutter,git,github,html,java,js,jest,nodejs,py,react,vscode&perline=8" />
+  </a>
+</p>
 
 <br>
 <br>
