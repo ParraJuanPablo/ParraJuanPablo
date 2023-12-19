@@ -3,7 +3,8 @@
 <h2><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About Me.</h2>
 <br>
 
-- :school: I´m currently `Studying` [Systems Engineer](https://www.unimet.edu.ve/facultad_ingenieria/ingenieria-de-sistemas/) at [Universidad Metropolitana](https://www.unimet.edu.ve).
+- 🎒  I´m currently `Studying` [Systems Engineer](https://www.unimet.edu.ve/facultad_ingenieria/ingenieria-de-sistemas/) at [Universidad Metropolitana](https://www.unimet.edu.ve).
+- 🏫 I´m a `certified` [Full-Stack Developer](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack)) at [4Geeks Academy]((https://4geeks.com/es)).
 - :thinking: I’m open for a new `job opportunity`, this is [MY RESUME]().
 - :boom: You can visit [MY WEBSITE]().
   
@@ -30,19 +31,13 @@
 <br>
 
 
-<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats.</h2>
-<br>
-
-<br>
-<br>
-
------
-
-<br>
-
-
 <h2><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> Let´s Connect.</h2>
 <br>
+<a href="mailto:parrfjp@gmail.com" target="blank">
+  <img src="
+https://img.shields.io/badge/Click%20to%20Action-Mail-red?cacheSeconds" />
+</a>
+
 <!--
 **ParraJuanPablo/ParraJuanPablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
