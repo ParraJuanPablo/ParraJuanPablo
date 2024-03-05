@@ -6,7 +6,6 @@
 - 🎒  I´m currently `Studying` [Systems Engineer](https://www.unimet.edu.ve/facultad_ingenieria/ingenieria-de-sistemas/) at [Universidad Metropolitana](https://www.unimet.edu.ve).
 - 🏫 I´m a `certified` [Full-Stack Developer](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack) at [4Geeks Academy](https://4geeks.com/es).
 - :thinking: I’m open for a new `job opportunity`, this is [MY RESUME](https://flowcv.com/resume/1vdhjko9ws).
-- :boom: You can visit [MY WEBSITE]().
   
 <br>
 <br>
